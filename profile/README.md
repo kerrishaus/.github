@@ -1,2 +1,2 @@
 # Migrated
-This organization and all its repos have been migrated to https://git.kerrishaus.com.
+This organization and all its repos have been migrated to https://git.kerrishaus.com/kerrishaus.
